@@ -3,7 +3,7 @@ import React from "react";
 function ApplyOption(props){
     return(
         <div className="apply-option">
-            <h2 className="text-3xl mt-6 font-headingFont">
+            <h2 className="text-2xl lg:text-3xl mt-6 font-headingFont">
                 {props.head}
                 
             </h2>

@@ -2,10 +2,10 @@ import React from "react";
 
 function Magic() {
   return (
-    <section className="magic-box grid grid-col-1 md:grid-cols-2  mt-20 p-4">
+    <section className="magic-box grid md:grid-cols-2 md:grid-cols-[2fr_1fr]  mt-20 p-4">
       
       <div className="magic-text w-full">
-        <h1 className="mb-4 text-4xl leading-normal font-headingFont">
+        <h1 className="mb-4 sm:max-md:text-[25px] md:max-lg:text-[30px] lg:text-[35px] leading-normal font-headingFont">
           Turn Your Cursor Into A Colorful Magic Wand & Charm Your Visitors
         </h1>
         <p className="mb-4 font-paraFont text-customParaColor text-[18px]">

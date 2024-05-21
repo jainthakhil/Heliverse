@@ -6,7 +6,7 @@ function Apply(){
         <section className="apply-box mt-20 p-6">
     <div className="apply-container">
         <div className="apply-head mb-20 w-full flex justify-center">
-            <h1 className="text-4xl w-3/4 lg:w-1/2   text-center leading-normal font-headingFont">
+            <h1 className="text-2xl sm:max-md:text-[25px] md:max-lg:text-[30px] lg:text-[35px] w-3/4 lg:w-1/2   text-center leading-normal font-headingFont">
                 Apply On Any Section Or Enable For Whole Page
             </h1>
         </div>

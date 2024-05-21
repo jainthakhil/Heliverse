@@ -7,7 +7,7 @@ function Features(){
         <section className="features flex justify-center mt-20">
     <div className="features-box flex flex-col items-center">
         <div className="feature-head text-center mb-8 w-full md:w-1/2 px-4"> 
-            <h1 className="text-4xl font-headingFont leading-normal">
+            <h1 className="text-2xl sm:max-md:text-[25px] md:max-lg:text-[30px] lg:text-[35px] font-headingFont leading-normal">
                 An All-Round Plugin With Powerful Features
             </h1>
         </div>

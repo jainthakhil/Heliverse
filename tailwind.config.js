@@ -14,6 +14,10 @@ module.exports = {
         customBorderRightColor: "#272137",
         customParaColor: "#B4AEC4"
       },
+      fontSize: {
+        'xxs': '0.65rem', 
+        '3xl': '1.75rem',
+      },
       fontFamily: {
         paraFont: ['Outfit', 'sans-serif'],
         headingFont: ['Sora', 'sans-serif'], 

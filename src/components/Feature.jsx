@@ -7,7 +7,7 @@ function Feature(props){
         <img src={props.src} alt="featureimg"/>
     </div>
     <div className="feature-head p-4">
-        <h1 className="text-2xl my-4 font-headingFont">{props.head}</h1>
+        <h1 className="text-2xl sm:max-md:text-[25px] my-4 font-headingFont">{props.head}</h1>
         <p className="leading-[1.75] font-paraFont text-customParaColor text-[18px]">{props.desc}</p>
     </div>
 </div>
