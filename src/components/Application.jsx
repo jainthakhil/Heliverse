@@ -13,8 +13,8 @@ function Apply(){
         <div className="apply-option-box flex flex-col md:flex-row">
 
             <div className="flex-1">
-                <div className="p-6 bg-gradient-to-br from-customOptionBox1 to-customOptionBox2  border-t-2 border-customBorderTopColor border-r-2 border-customBorderRightColor  rounded-lg shadow-lg">
-                    <div className="rounded-2xl">
+                <div className="p-6 bg-gradient-to-br from-customOptionBox1 to-customOptionBox2  border-t-2 border-customBorderTopColor border-r-2 border-customBorderRightColor  rounded-xl shadow-lg">
+                    <div >
                         <ApplyOption 
                             head= "Apply On Section"
                             desc = "Apply on section is a game-changer, offering an unparalleled way to manage applications directly from your website."
@@ -24,8 +24,8 @@ function Apply(){
                 </div>
             </div>
             <div className="flex-1 md:ml-4 md:mt-20 mt-6">
-                <div className="p-6 bg-gradient-to-br from-customOptionBox1 to-customOptionBox2 border-t-2 border-customBorderTopColor border-r-2 border-customBorderRightColor rounded-lg shadow-lg">
-                    <div className="rounded-2xl">
+                <div className="p-6 bg-gradient-to-br from-customOptionBox1 to-customOptionBox2 border-t-2 border-customBorderTopColor border-r-2 border-customBorderRightColor rounded-xl shadow-lg">
+                    <div >
                         <ApplyOption 
                             head= "Apply On Page"
                             desc = "Take your website to new heights with Motion Art for Elementor. Embrace the power of motion and animation."

@@ -24,7 +24,10 @@ module.exports = {
       },
       lineHeight: {
         'custom-line-height': '1.6',
-      }
+      },
+      screens: {
+        'xs': '480px',
+      },
     },
   },
   plugins: [],

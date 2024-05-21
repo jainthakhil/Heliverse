@@ -4,14 +4,14 @@ import Feature from "./Feature";
 
 function Features(){
     return(
-        <section className="features flex justify-center mt-20">
+        <section className="features flex justify-center mt-8 md:mt-20">
     <div className="features-box flex flex-col items-center">
-        <div className="feature-head text-center mb-8 w-full md:w-1/2 px-4"> 
+        <div className="feature-head text-center mb-4 w-full md:w-3/5 px-4"> 
             <h1 className="text-2xl sm:max-md:text-[25px] md:max-lg:text-[30px] lg:text-[35px] font-headingFont leading-normal">
                 An All-Round Plugin With Powerful Features
             </h1>
         </div>
-        <div className="feature-desc text-center mb-8 w-full md:w-1/2 px-4">
+        <div className="feature-desc text-center mb-4 w-full md:w-3/5 px-4">
             <p className="font-paraFont text-customParaColor text-[18px]">
                 Whether you're a seasoned web designer or just starting out, Motion Art for Elementor seamlessly integrates with the Elementor platform, providing you with a seamless and intuitive experience.
             </p>
