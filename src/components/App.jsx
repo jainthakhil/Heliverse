@@ -11,7 +11,7 @@ import Footer from "./Footer";
 
 function App(){
     return(
-        <div className="text-customHeading bg-customBackground">
+        <div className="min-w-0 w-full text-customHeading bg-customBackground">
             <Header/>
             <Middle/>
             <Testimonial/>

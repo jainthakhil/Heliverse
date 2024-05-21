@@ -12,7 +12,7 @@ function Review(props){
             <img src={props.starSrc} alt="img "/>
         </div>
         <div className="review-score">
-            <p className="mb-2">
+            <p className="mb-2 font-paraFont text-customParaColor">
                 {props.score} Score, {props.reviews} Reviews
             </p>
         </div>

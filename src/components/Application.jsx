@@ -6,11 +6,11 @@ function Apply(){
         <section className="apply-box mt-20 p-6">
     <div className="apply-container">
         <div className="apply-head mb-20 w-full flex justify-center">
-            <h2 className="text-4xl text-center w-1/2 leading-[1.75] font-medium">
+            <h1 className="text-4xl w-3/4 lg:w-1/2   text-center leading-normal font-headingFont">
                 Apply On Any Section Or Enable For Whole Page
-            </h2>
+            </h1>
         </div>
-        <div className="apply-option-box flex">
+        <div className="apply-option-box flex flex-col md:flex-row">
 
             <div className="flex-1">
                 <div className="p-6 bg-gradient-to-br from-customOptionBox1 to-customOptionBox2  border-t-2 border-customBorderTopColor border-r-2 border-customBorderRightColor  rounded-lg shadow-lg">
@@ -23,7 +23,7 @@ function Apply(){
                     </div>
                 </div>
             </div>
-            <div className="flex-1 ml-4 mt-20">
+            <div className="flex-1 md:ml-4 md:mt-20 mt-6">
                 <div className="p-6 bg-gradient-to-br from-customOptionBox1 to-customOptionBox2 border-t-2 border-customBorderTopColor border-r-2 border-customBorderRightColor rounded-lg shadow-lg">
                     <div className="rounded-2xl">
                         <ApplyOption 
