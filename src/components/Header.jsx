@@ -3,9 +3,9 @@ import React from "react";
 function Header(){
     return(
                 <section className="header flex justify-between items-center p-4  ">
-        <div className="logo">
-            <a href="#">
-            <img src="/media/MotionArtEffect-logo.png" alt="logo" />
+        <div className="logo w-full xs:w-auto">
+            <a href="#g">
+            <img src="/media/MotionArtEffect-logo.png" className="w-1/2 xs:w-auto" alt="logo" />
 
             </a>
             
