@@ -21,7 +21,7 @@ function Middle() {
         </div>
 
         <div className="right-middle flex flex-col justify-center md:justify-start md:items-start pt-8 p-8  w-full md:w-3/4">
-          <h1 className="lg:text-[55px] md:text-5xl text-[35px] font-medium mb-4 text-customHeading text-center xs:text-left font-headingFont">
+          <h1 style={{ lineHeight: '1.5' }} className="lg:text-[55px] md:text-5xl text-[35px] font-medium mb-4 text-customHeading text-center xs:text-left font-headingFont" >
             Attract Your Visitors Attention With Colorful
           </h1>
           <h1 className="lg:text-[55px] md:text-5xl text-[35px] font-medium mb-4 text-customBlue md:text-left">

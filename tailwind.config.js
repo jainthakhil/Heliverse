@@ -7,7 +7,7 @@ module.exports = {
         customBackground: '#0E0F1A',
         customHeading: '#EEE5FF',
         customBlue: "#5E11FF",
-        customOrange: "#F5731C",
+        customOrange: "#F87516",
         customOptionBox1: "#0D061F",
         customOptionBox2: "#241D34",
         customBorderTopColor: "#332C42",
